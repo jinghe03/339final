@@ -45,7 +45,7 @@
     alwaysShowNavOnTouchDevices: false,
     fadeDuration: 600,
     fitImagesInViewport: true,
-    imageFadeDuration: 600,
+    imageFadeDuration: 1000,
     // maxWidth: 800,
     // maxHeight: 600,
     positionFromTop: 50,
